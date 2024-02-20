@@ -1,6 +1,6 @@
 Flask
 face_recognition
 numpy
-base64
+pybase64
 opencv-python
 PIL
