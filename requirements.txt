@@ -4,3 +4,4 @@ numpy
 pybase64
 opencv-python
 pillow
+cmake
