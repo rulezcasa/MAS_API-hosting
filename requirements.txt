@@ -3,4 +3,4 @@ face_recognition
 numpy
 pybase64
 opencv-python
-PIL
+pillow
